@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157914002168",
+    "project_id": "buoyant-aloe-381610",
+    "storage_bucket": "buoyant-aloe-381610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157914002168:android:e8c7d156c7022a60c7410d",
+        "android_client_info": {
+          "package_name": "com.example.poolyfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157914002168-btqrsgb99fkup05l11cdbksiqhacogr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CdmXaBpsTWwvDQKKkFCSO6Dwzd-NFgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157914002168-btqrsgb99fkup05l11cdbksiqhacogr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
